@@ -3,3 +3,6 @@
 - Cena 1: Tang Lung aparece no aeroporto
 
 - Cena 2: Passa vergonha no restaurante
+
+- Cena 3: Colt se encontra com Tang Lung
+
