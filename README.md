@@ -6,3 +6,4 @@
 
 - Cena 3: Colt se encontra com Tang Lung
 
+- Cena 4: Tang Lung da uma piaba em Colt
